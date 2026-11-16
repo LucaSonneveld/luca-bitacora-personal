@@ -18,7 +18,10 @@ Tabla `vuelos` (izquierda) y tabla `aerolineas` (derecha); unión izquierda con 
 
 **b) ¿Cuántas filas tendría si la unión fuera interna?**
 
-3 filas.
+4 filas (vuelos 1, 2, 3 y 4).
+
+> ✏️ **Corregido:** en la hoja había puesto 3 filas. Ver la explicación en
+> [`errores/`](../errores/).
 
 **c) ¿Qué vuelo se pierde en la unión interna y por qué?**
 
